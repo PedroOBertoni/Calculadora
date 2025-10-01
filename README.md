@@ -19,11 +19,6 @@ Este é um dos meus primeiros projetos de estudo em **desenvolvimento web**, uma
 
 ---
 
-## 📷 Preview
-> *(adicione aqui uma captura de tela da calculadora, se quiser)*
-
----
-
 ## 📂 Como usar
 1. Clone este repositório:
    ```bash

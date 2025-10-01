@@ -1,1 +1,41 @@
-Esse projeto se trata de uma calculadora virtual que pode realizar vários tipos de operações como: divisão (representada por '÷'), multiplicação (representada por 'X'), soma (representada por '+') e subtração (representada por '-'), em que cada uma possuí um botão na calculadora, e essas operações podem ser realizadas inúmeros números, já que a calculadora possuí algarismos de 0 a 9 e '.' para criar números pequenos a grandes e inteiros a decimais. Além disso também é possível limpar todos os número digitados com o botão 'C', apagar o último número selecionado com o botão '⇦', e calcular o resultado da conta com o botão '='. Esse calculadora foi criada por Pedro de Oliveira Bertoni através de tecnologias de front-end, sendo elas: Javascript, HTML5 e CSS3.
+# 🧮 Calculadora Simples
+
+Este é um dos meus primeiros projetos de estudo em **desenvolvimento web**, uma calculadora funcional desenvolvida apenas com **HTML, CSS e JavaScript**.
+
+---
+
+## 🚀 Funcionalidades
+- Operações básicas: **soma, subtração, multiplicação e divisão**
+- Interface simples e intuitiva
+- Layout responsivo utilizando apenas **HTML e CSS**
+- Lógica de cálculo feita em **JavaScript puro**
+
+---
+
+## 🖥️ Tecnologias utilizadas
+- **HTML5** → Estrutura da página  
+- **CSS3** → Estilização e layout  
+- **JavaScript** → Lógica da calculadora  
+
+---
+
+## 📷 Preview
+> *(adicione aqui uma captura de tela da calculadora, se quiser)*
+
+---
+
+## 📂 Como usar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/SEU-USUARIO/Calculadora.git
+    ```
+2. Abra o arquivo index.html no navegador
+
+3. Use a calculadora normalmente
+
+---
+
+## 📝 Observações
+
+Este projeto foi criado com fins educacionais, como parte dos meus primeiros passos no estudo de desenvolvimento web.
+Mesmo sendo simples, foi um ótimo exercício para entender melhor a interação entre HTML, CSS e JavaScript. 🎉
